@@ -1,4 +1,5 @@
-# AndroidArchitectureDemo This is a simple Android Application created to demonstrate how a simple Architecture can 
+# AndroidArchitectureDemo 
+This is a simple Android Application created to demonstrate how a simple Architecture can 
 be written for an Android Application with MVVM, Live Data, ViewModel, Retrofit and RxKotlin.
 
 The Application has an Activity with a recyclerview and  data is loaded using retrofit.
